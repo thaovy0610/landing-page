@@ -168,5 +168,12 @@ span {
 span:last-child {
     font-size: 18px;
     font-weight: 400;
-    color: #dcdcdc
+    color: #e5e7eb
+}
+
+footer p{
+    background-color: #1f2937;
+    padding: 40px 0;
+    text-align: center;
+    color:#e5e7eb;
 }
