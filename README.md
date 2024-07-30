@@ -1,1 +1,2 @@
-# landing-page
+# Build static landing page
+The goal of this Odin Project exercise is to practice building a simple landing page using HTML and CSS, with a focus on implementing Flexbox. Additionally, the assignment includes practicing Git commands and writing meaningful commit messages.
